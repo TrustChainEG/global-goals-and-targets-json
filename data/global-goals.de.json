@@ -849,7 +849,7 @@
       "color":"#FD9D24"
     },
     {  
-      "title":"Bieten Sie Zugang zu sicheren und integrativen Grünflächen und öffentlichen Plätzen.",
+      "title":"Zugang zu sicheren und integrativen Grünflächen und öffentlichen Plätzen bieten.",
       "short":"",
       "number":"11.7",
       "svg":"assets/img/the-global-goals-goals-and-targets/goal-11/GOAL_11_TARGETS/GOAL_11_TARGETS_SVG/GOAL_11_TARGET_11.7.svg",
@@ -1186,7 +1186,7 @@
       "color":"#56C02B"
     },
     {  
-      "title":"Verhindern Sie invasive gebietsfremde Arten auf dem Land und in Wasserökosystemen.",
+      "title":"Verhindern von invasive gebietsfremde Arten auf dem Land und in Wasserökosystemen.",
       "short":"",
       "number":"15.8",
       "svg":"assets/img/the-global-goals-goals-and-targets/goal-15/GOAL_15_TARGETS/GOAL_15_TARGETS_SVG/GOAL_15_TARGET_15.8.svg",
@@ -1305,8 +1305,11 @@
       "png":"assets/img/the-global-goals-goals-and-targets/goal-16/GOAL_16_TARGETS/GOAL_16_TARGETS_PNG/GOAL_16_TARGET_16.9.png",
       "color":"#00689D"
     },
+
+
+
     {  
-      "title":"Ensure public access to information and protect fundamental freedoms.",
+      "title":"Gewährleistung des Zugangs der Öffentlichkeit zu Informationen und Schutz der Grundfreiheiten.",
       "short":"",
       "number":"16.10",
       "svg":"assets/img/the-global-goals-goals-and-targets/goal-16/GOAL_16_TARGETS/GOAL_16_TARGETS_SVG/GOAL_16_TARGET_16.10.svg",
@@ -1314,7 +1317,7 @@
       "color":"#00689D"
     },
     {  
-      "title":"Strengthen national institutions to prevent violence and combat terrorism and crime.",
+      "title":"Stärkung der nationalen Institutionen zur Verhütung von Gewalt und zur Bekämpfung von Terrorismus und Kriminalität.",
       "short":"",
       "number":"16.A",
       "svg":"assets/img/the-global-goals-goals-and-targets/goal-16/GOAL_16_TARGETS/GOAL_16_TARGETS_SVG/GOAL_16_TARGET_16.A.svg",
@@ -1322,7 +1325,7 @@
       "color":"#00689D"
     },
     {  
-      "title":"Promote and enforce non-discriminatory laws and policies.",
+      "title":"Förderung und Durchsetzung nichtdiskriminierender Gesetze und Richtlinien.",
       "short":"",
       "number":"16.B",
       "svg":"assets/img/the-global-goals-goals-and-targets/goal-16/GOAL_16_TARGETS/GOAL_16_TARGETS_SVG/GOAL_16_TARGET_16.B.svg",
@@ -1330,7 +1333,7 @@
       "color":"#00689D"
     },
     {  
-      "title":"Umsetzungsmittel stärken und die Globale Partnerschaft für nachhaltige Entwicklung mit neuem Leben erfüllen",
+      "title":"Stärkung der Umsetzungsmöglichkeiten und Revitalisierung der Globalen Partnerschaft für nachhaltige Entwicklung",
       "short":"Partnerships for the goals",
       "number":"17",
       "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_PRIMARY_ICON/GOAL_17_SVG/TheGlobalGoals_Icons_Color_Goal_17.svg",
@@ -1338,7 +1341,7 @@
       "color":"#19486A"
     },
     {  
-      "title":"Mobilize resources to improve domestic revenue collection.",
+      "title":"Mobilisierung von Ressourcen zur Verbesserung der inländischen Steuererhebung.",
       "short":"",
       "number":"17.1",
       "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.1.svg",
@@ -1346,7 +1349,7 @@
       "color":"#19486A"
     },
     {  
-      "title":"Implement all development assistance commitments.",
+      "title":"Umsetzung aller Entwicklungshilfeverpflichtungen.",
       "short":"",
       "number":"17.2",
       "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.2.svg",
@@ -1354,7 +1357,7 @@
       "color":"#19486A"
     },
     {  
-      "title":"Mobilize financial resources for developing countries.",
+      "title":"Mobilisierung von Finanzmitteln für Entwicklungsländer.",
       "short":"",
       "number":"17.3",
       "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.3.svg",
@@ -1362,7 +1365,7 @@
       "color":"#19486A"
     },
     {  
-      "title":"Assist developing countries in attaining debt sustainability.",
+      "title":"Unterstützung der Entwicklungsländer bei der Erreichung der Tragfähigkeit ihrer Schulden.",
       "short":"",
       "number":"17.4",
       "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.4.svg",
@@ -1370,7 +1373,7 @@
       "color":"#19486A"
     },
     {  
-      "title":"Invest in least developed countries.",
+      "title":"Investitionen in den am wenigsten entwickelten Ländern.",
       "short":"",
       "number":"17.5",
       "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.5.svg",
@@ -1378,7 +1381,7 @@
       "color":"#19486A"
     },
     {  
-      "title":"Knowledge sharing and cooperation for access to science, technology and innovation.",
+      "title":"Wissensaustausch und Zusammenarbeit für den Zugang zu Wissenschaft, Technologie und Innovation.",
       "short":"",
       "number":"17.6",
       "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.6.svg",
@@ -1386,7 +1389,7 @@
       "color":"#19486A"
     },
     {  
-      "title":"Promote sustainable technologies to developing countries.",
+      "title":"Förderung nachhaltiger Technologien in Entwicklungsländern.",
       "short":"",
       "number":"17.7",
       "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.7.svg",
@@ -1394,7 +1397,7 @@
       "color":"#19486A"
     },
     {  
-      "title":"Strengthen the science, technology and innovation capacity for least developed countries.",
+      "title":"Stärkung der Wissenschafts-, Technologie- und Innovationskapazität der am wenigsten entwickelten Länder.",
       "short":"",
       "number":"17.8",
       "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.8.svg",
@@ -1402,7 +1405,7 @@
       "color":"#19486A"
     },
     {  
-      "title":"Enhance SDG capacity in developing countries.",
+      "title":"Ausbau der SDG-Kapazitäten in Entwicklungsländern.",
       "short":"",
       "number":"17.9",
       "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.9.svg",
@@ -1410,7 +1413,7 @@
       "color":"#19486A"
     },
     {  
-      "title":"Promote a universal trading system under the WTO.",
+      "title":"Förderung eines universellen Handelssystems im Rahmen der WTO.",
       "short":"",
       "number":"17.10",
       "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.10.svg",
@@ -1418,7 +1421,7 @@
       "color":"#19486A"
     },
     {  
-      "title":"Increase the exports of developing countries.",
+      "title":"Steigerung der Exporte der Entwicklungsländer.",
       "short":"",
       "number":"17.11",
       "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.11.svg",
@@ -1426,7 +1429,7 @@
       "color":"#19486A"
     },
     {  
-      "title":"Remove trade barriers for least developed countries.",
+      "title":"Abbau von Handelshemmnissen für die am wenigsten entwickelten Länder.",
       "short":"",
       "number":"17.12",
       "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.12.svg",
@@ -1434,7 +1437,7 @@
       "color":"#19486A"
     },
     {  
-      "title":"Enhance global macroeconomic stability.",
+      "title":"Verbesserung der globalen makroökonomischen Stabilität.",
       "short":"",
       "number":"17.13",
       "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.13.svg",
@@ -1442,7 +1445,7 @@
       "color":"#19486A"
     },
     {  
-      "title":"Enhance policy coherence for sustainable development.",
+      "title":"Verbesserung der Politikkohärenz für eine nachhaltige Entwicklung.",
       "short":"",
       "number":"17.14",
       "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.14.svg",
@@ -1450,7 +1453,7 @@
       "color":"#19486A"
     },
     {  
-      "title":"Respect national leadership to implement policies for the sustainable development goals.",
+      "title":"Respektieren der nationalen Führung bei der Umsetzung der Politik für die Ziele der nachhaltigen Entwicklung.",
       "short":"",
       "number":"17.15",
       "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.15.svg",
@@ -1458,7 +1461,7 @@
       "color":"#19486A"
     },
     {  
-      "title":"Enhance the global partnership for sustainable development",
+      "title":"Stärkung der globalen Partnerschaft für nachhaltige Entwicklung",
       "short":"",
       "number":"17.16",
       "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.16.svg",
@@ -1466,7 +1469,7 @@
       "color":"#19486A"
     },
     {  
-      "title":"Encourage effective partnerships.",
+      "title":"Förderung effektiver Partnerschaften.",
       "short":"",
       "number":"17.17",
       "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.17.svg",
@@ -1474,7 +1477,7 @@
       "color":"#19486A"
     },
     {  
-      "title":"Enhance availability of reliable data.",
+      "title":"Erhöhung der Verfügbarkeit zuverlässiger Daten.",
       "short":"",
       "number":"17.18",
       "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.18.svg",
@@ -1482,7 +1485,7 @@
       "color":"#19486A"
     },
     {  
-      "title":"Further develop measurements of progress.",
+      "title":"Fortschrittsmessungen weiterentwickeln.",
       "short":"",
       "number":"17.19",
       "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.19.svg",
