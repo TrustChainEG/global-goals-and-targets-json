@@ -699,6 +699,608 @@
       "svg":"assets/img/the-global-goals-goals-and-targets/goal-11/GOAL_11_PRIMARY_ICON/GOAL_11_SVG/TheGlobalGoals_Icons_Color_Goal_11.svg",
       "png":"assets/img/the-global-goals-goals-and-targets/goal-11/GOAL_11_PRIMARY_ICON/GOAL_11_PNG/TheGlobalGoals_Icons_Color_Goal_11.png",
       "color":"#FD9D24"
+    },
+    {  
+      "title":"Safe and affordable housing.",
+      "number":"11.1",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-11/GOAL_11_TARGETS/GOAL_11_TARGETS_SVG/GOAL_11_TARGET_11.1.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-11/GOAL_11_TARGETS/GOAL_11_TARGETS_PNG/GOAL_11_TARGET_11.1.png",
+      "color":"#FD9D24"
+    },
+    {  
+      "title":"Affordable and sustainable transport systems.",
+      "number":"11.2",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-11/GOAL_11_TARGETS/GOAL_11_TARGETS_SVG/GOAL_11_TARGET_11.2.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-11/GOAL_11_TARGETS/GOAL_11_TARGETS_PNG/GOAL_11_TARGET_11.2.png",
+      "color":"#FD9D24"
+    },
+    {  
+      "title":"Inclusive and sustainable urbanization.",
+      "number":"11.3",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-11/GOAL_11_TARGETS/GOAL_11_TARGETS_SVG/GOAL_11_TARGET_11.3.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-11/GOAL_11_TARGETS/GOAL_11_TARGETS_PNG/GOAL_11_TARGET_11.3.png",
+      "color":"#FD9D24"
+    },
+    {  
+      "title":"Protect the world´s cultural and natural heritage.",
+      "number":"11.4",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-11/GOAL_11_TARGETS/GOAL_11_TARGETS_SVG/GOAL_11_TARGET_11.4.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-11/GOAL_11_TARGETS/GOAL_11_TARGETS_PNG/GOAL_11_TARGET_11.4.png",
+      "color":"#FD9D24"
+    },
+    {  
+      "title":"Reduce the adverse effects of natural disasters.",
+      "number":"11.5",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-11/GOAL_11_TARGETS/GOAL_11_TARGETS_SVG/GOAL_11_TARGET_11.5.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-11/GOAL_11_TARGETS/GOAL_11_TARGETS_PNG/GOAL_11_TARGET_11.5.png",
+      "color":"#FD9D24"
+    },
+    {  
+      "title":"Reduce the environmental impact of cities.",
+      "number":"11.6",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-11/GOAL_11_TARGETS/GOAL_11_TARGETS_SVG/GOAL_11_TARGET_11.6.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-11/GOAL_11_TARGETS/GOAL_11_TARGETS_PNG/GOAL_11_TARGET_11.6.png",
+      "color":"#FD9D24"
+    },
+    {  
+      "title":"Provide access to safe and inclusive green and public spaces.",
+      "number":"11.7",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-11/GOAL_11_TARGETS/GOAL_11_TARGETS_SVG/GOAL_11_TARGET_11.7.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-11/GOAL_11_TARGETS/GOAL_11_TARGETS_PNG/GOAL_11_TARGET_11.7.png",
+      "color":"#FD9D24"
+    },
+    {  
+      "title":"Strong national and regional development planning.",
+      "number":"11.A",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-11/GOAL_11_TARGETS/GOAL_11_TARGETS_SVG/GOAL_11_TARGET_11.A.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-11/GOAL_11_TARGETS/GOAL_11_TARGETS_PNG/GOAL_11_TARGET_11.A.png",
+      "color":"#FD9D24"
+    },
+    {  
+      "title":"Implement policies for inclusion, resource efficiency and disaster risk reduction.",
+      "number":"11.B",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-11/GOAL_11_TARGETS/GOAL_11_TARGETS_SVG/GOAL_11_TARGET_11.B.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-11/GOAL_11_TARGETS/GOAL_11_TARGETS_PNG/GOAL_11_TARGET_11.B.png",
+      "color":"#FD9D24"
+    },
+    {  
+      "title":"Support least developed countries in sustainable and resilient building.",
+      "number":"11.C",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-11/GOAL_11_TARGETS/GOAL_11_TARGETS_SVG/GOAL_11_TARGET_11.C.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-11/GOAL_11_TARGETS/GOAL_11_TARGETS_PNG/GOAL_11_TARGET_11.C.png",
+      "color":"#FD9D24"
+    },
+    {  
+      "title":"Responsible consumption and production",
+      "number":"12",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-12/GOAL_12_PRIMARY_ICON/GOAL_12_SVG/TheGlobalGoals_Icons_Color_Goal_12.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-12/GOAL_12_PRIMARY_ICON/GOAL_12_PNG/TheGlobalGoals_Icons_Color_Goal_12.png",
+      "color":"#BF8B2E"
+    },
+    {  
+      "title":"Implement the 10-year sustainable consumption and production framework.",
+      "number":"12.1",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-12/GOAL_12_TARGETS/GOAL_12_TARGETS_SVG/GOAL_12_TARGET_12.1.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-12/GOAL_12_TARGETS/GOAL_12_TARGETS_PNG/GOAL_12_TARGET_12.1.png",
+      "color":"#BF8B2E"
+    },
+    {  
+      "title":"Sustainable management and use of natural resources.",
+      "number":"12.2",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-12/GOAL_12_TARGETS/GOAL_12_TARGETS_SVG/GOAL_12_TARGET_12.2.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-12/GOAL_12_TARGETS/GOAL_12_TARGETS_PNG/GOAL_12_TARGET_12.2.png",
+      "color":"#BF8B2E"
+    },
+    {  
+      "title":"Halve global per capita food waste.",
+      "number":"12.3",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-12/GOAL_12_TARGETS/GOAL_12_TARGETS_SVG/GOAL_12_TARGET_12.3.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-12/GOAL_12_TARGETS/GOAL_12_TARGETS_PNG/GOAL_12_TARGET_12.3.png",
+      "color":"#BF8B2E"
+    },
+    {  
+      "title":"Responsible management of chemicals and waste.",
+      "number":"12.4",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-12/GOAL_12_TARGETS/GOAL_12_TARGETS_SVG/GOAL_12_TARGET_12.4.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-12/GOAL_12_TARGETS/GOAL_12_TARGETS_PNG/GOAL_12_TARGET_12.4.png",
+      "color":"#BF8B2E"
+    },
+    {  
+      "title":" Substantially reduce waste generation.",
+      "number":"12.5",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-12/GOAL_12_TARGETS/GOAL_12_TARGETS_SVG/GOAL_12_TARGET_12.5.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-12/GOAL_12_TARGETS/GOAL_12_TARGETS_PNG/GOAL_12_TARGET_12.5.png",
+      "color":"#BF8B2E"
+    },
+    {  
+      "title":"Encourage companies to adopt sustainable practices and sustainability reporting.",
+      "number":"12.6",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-12/GOAL_12_TARGETS/GOAL_12_TARGETS_SVG/GOAL_12_TARGET_12.6.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-12/GOAL_12_TARGETS/GOAL_12_TARGETS_PNG/GOAL_12_TARGET_12.6.png",
+      "color":"#BF8B2E"
+    },
+    {  
+      "title":"Promote sustainable public procurement practices.",
+      "number":"12.7",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-12/GOAL_12_TARGETS/GOAL_12_TARGETS_SVG/GOAL_12_TARGET_12.7.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-12/GOAL_12_TARGETS/GOAL_12_TARGETS_PNG/GOAL_12_TARGET_12.7.png",
+      "color":"#BF8B2E"
+    },
+    {  
+      "title":"Promote universal understanding of sustainable lifestyles.",
+      "number":"12.8",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-12/GOAL_12_TARGETS/GOAL_12_TARGETS_SVG/GOAL_12_TARGET_12.8.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-12/GOAL_12_TARGETS/GOAL_12_TARGETS_PNG/GOAL_12_TARGET_12.8.png",
+      "color":"#BF8B2E"
+    },
+    {  
+      "title":"Support developing countries´ scientific and technological capacity for sustainable consumption and production.",
+      "number":"12.A",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-12/GOAL_12_TARGETS/GOAL_12_TARGETS_SVG/GOAL_12_TARGET_12.A.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-12/GOAL_12_TARGETS/GOAL_12_TARGETS_PNG/GOAL_12_TARGET_12.A.png",
+      "color":"#BF8B2E"
+    },
+    {  
+      "title":"Develop and implement tools to monitor sustainable tourism.",
+      "number":"12.B",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-12/GOAL_12_TARGETS/GOAL_12_TARGETS_SVG/GOAL_12_TARGET_12.B.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-12/GOAL_12_TARGETS/GOAL_12_TARGETS_PNG/GOAL_12_TARGET_12.B.png",
+      "color":"#BF8B2E"
+    },
+    {  
+      "title":"Remove market destortions that encourage wasteful consumption.",
+      "number":"12.C",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-12/GOAL_12_TARGETS/GOAL_12_TARGETS_SVG/GOAL_12_TARGET_12.C.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-12/GOAL_12_TARGETS/GOAL_12_TARGETS_PNG/GOAL_12_TARGET_12.C.png",
+      "color":"#BF8B2E"
+    },
+    {  
+      "title":"Climate Action",
+      "number":"13",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-13/GOAL_13_PRIMARY_ICON/GOAL_13_SVG/TheGlobalGoals_Icons_Color_Goal_13.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-13/GOAL_13_PRIMARY_ICON/GOAL_13_PNG/TheGlobalGoals_Icons_Color_Goal_13.png",
+      "color":"#3F7E44"
+    },
+    {  
+      "title":"Strenghten resilience and adaptive capacity to climate related disasters.",
+      "number":"13.1",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-13/GOAL_13_TARGETS/GOAL_13_TARGETS_SVG/GOAL_13_TARGET_13.1.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-13/GOAL_13_TARGETS/GOAL_13_TARGETS_PNG/GOAL_13_TARGET_13.1.png",
+      "color":"#3F7E44"
+    },
+    {  
+      "title":"Integrate climate change measures into policies and planning.",
+      "number":"13.2",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-13/GOAL_13_TARGETS/GOAL_13_TARGETS_SVG/GOAL_13_TARGET_13.2.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-13/GOAL_13_TARGETS/GOAL_13_TARGETS_PNG/GOAL_13_TARGET_13.2.png",
+      "color":"#3F7E44"
+    },
+    {  
+      "title":"Build knowledge and capacity to meet climate change.",
+      "number":"13.3",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-13/GOAL_13_TARGETS/GOAL_13_TARGETS_SVG/GOAL_13_TARGET_13.3.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-13/GOAL_13_TARGETS/GOAL_13_TARGETS_PNG/GOAL_13_TARGET_13.3.png",
+      "color":"#3F7E44"
+    },
+    {  
+      "title":"Implement the UN Framework convention on climate change.",
+      "number":"13.A",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-13/GOAL_13_TARGETS/GOAL_13_TARGETS_SVG/GOAL_13_TARGET_13.A.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-13/GOAL_13_TARGETS/GOAL_13_TARGETS_PNG/GOAL_13_TARGET_13.A.png",
+      "color":"#3F7E44"
+    },
+    {  
+      "title":"Promote mechanisms to raise capacity for climate planning and management.",
+      "number":"13.B",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-13/GOAL_13_TARGETS/GOAL_13_TARGETS_SVG/GOAL_13_TARGET_13.B.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-13/GOAL_13_TARGETS/GOAL_13_TARGETS_PNG/GOAL_13_TARGET_13.B.png",
+      "color":"#3F7E44"
+    },
+    {  
+      "title":"Life below water",
+      "number":"14",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-14/GOAL_14_PRIMARY_ICON/GOAL_14_SVG/TheGlobalGoals_Icons_Color_Goal_14.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-14/GOAL_14_PRIMARY_ICON/GOAL_14_PNG/TheGlobalGoals_Icons_Color_Goal_14.png",
+      "color":"#0A97D9"
+    },
+    {  
+      "title":"Reduce marine pollution",
+      "number":"14.1",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-14/GOAL_14_TARGETS/GOAL_14_TARGETS_SVG/GOAL_14_TARGET_14.1.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-14/GOAL_14_TARGETS/GOAL_14_TARGETS_PNG/GOAL_14_TARGET_14.1.png",
+      "color":"#0A97D9"
+    },
+    {  
+      "title":"Protect and restore ecosystems.",
+      "number":"14.2",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-14/GOAL_14_TARGETS/GOAL_14_TARGETS_SVG/GOAL_14_TARGET_14.2.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-14/GOAL_14_TARGETS/GOAL_14_TARGETS_PNG/GOAL_14_TARGET_14.2.png",
+      "color":"#0A97D9"
+    },
+    {  
+      "title":"Reduce ocean acidification.",
+      "number":"14.3",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-14/GOAL_14_TARGETS/GOAL_14_TARGETS_SVG/GOAL_14_TARGET_14.3.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-14/GOAL_14_TARGETS/GOAL_14_TARGETS_PNG/GOAL_14_TARGET_14.3.png",
+      "color":"#0A97D9"
+    },
+    {  
+      "title":"Sustainable fishing.",
+      "number":"14.4",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-14/GOAL_14_TARGETS/GOAL_14_TARGETS_SVG/GOAL_14_TARGET_14.4.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-14/GOAL_14_TARGETS/GOAL_14_TARGETS_PNG/GOAL_14_TARGET_14.4.png",
+      "color":"#0A97D9"
+    },
+    {  
+      "title":"Conserve coastal and marine areas.",
+      "number":"14.5",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-14/GOAL_14_TARGETS/GOAL_14_TARGETS_SVG/GOAL_14_TARGET_14.5.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-14/GOAL_14_TARGETS/GOAL_14_TARGETS_PNG/GOAL_14_TARGET_14.5.png",
+      "color":"#0A97D9"
+    },
+    {  
+      "title":"End subsidies contributing to overfishing.",
+      "number":"14.6",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-14/GOAL_14_TARGETS/GOAL_14_TARGETS_SVG/GOAL_14_TARGET_14.6.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-14/GOAL_14_TARGETS/GOAL_14_TARGETS_PNG/GOAL_14_TARGET_14.6.png",
+      "color":"#0A97D9"
+    },
+    {  
+      "title":"Increase economic benefits from sustainable use of marine resources.",
+      "number":"14.7",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-14/GOAL_14_TARGETS/GOAL_14_TARGETS_SVG/GOAL_14_TARGET_14.7.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-14/GOAL_14_TARGETS/GOAL_14_TARGETS_PNG/GOAL_14_TARGET_14.7.png",
+      "color":"#0A97D9"
+    },
+    {  
+      "title":"Increase the economic benefits from sustainable use of marine resources.",
+      "number":"14.7",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-14/GOAL_14_TARGETS/GOAL_14_TARGETS_SVG/GOAL_14_TARGET_14.7.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-14/GOAL_14_TARGETS/GOAL_14_TARGETS_PNG/GOAL_14_TARGET_14.7.png",
+      "color":"#0A97D9"
+    },
+    {  
+      "title":"Increase scientific knowledge, research and technology for ocean health.",
+      "number":"14.A",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-14/GOAL_14_TARGETS/GOAL_14_TARGETS_SVG/GOAL_14_TARGET_14.A.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-14/GOAL_14_TARGETS/GOAL_14_TARGETS_PNG/GOAL_14_TARGET_14.A.png",
+      "color":"#0A97D9"
+    },
+    {  
+      "title":"Support small scale fishers.",
+      "number":"14.B",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-14/GOAL_14_TARGETS/GOAL_14_TARGETS_SVG/GOAL_14_TARGET_14.B.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-14/GOAL_14_TARGETS/GOAL_14_TARGETS_PNG/GOAL_14_TARGET_14.B.png",
+      "color":"#0A97D9"
+    },
+    {  
+      "title":"Implement and enforce international sea law.",
+      "number":"14.C",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-14/GOAL_14_TARGETS/GOAL_14_TARGETS_SVG/GOAL_14_TARGET_14.C.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-14/GOAL_14_TARGETS/GOAL_14_TARGETS_PNG/GOAL_14_TARGET_14.C.png",
+      "color":"#0A97D9"
+    },
+    {  
+      "title":"Life On Land",
+      "number":"15",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-15/GOAL_15_PRIMARY_ICON/GOAL_15_SVG/TheGlobalGoals_Icons_Color_Goal_15.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-15/GOAL_15_PRIMARY_ICON/GOAL_15_PNG/TheGlobalGoals_Icons_Color_Goal_15.png",
+      "color":"#56C02B"
+    },
+    {  
+      "title":"Conserve and restore terrestrial and freshwater ecosystems.",
+      "number":"15.1",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-15/GOAL_15_TARGETS/GOAL_15_TARGETS_SVG/GOAL_15_TARGET_15.1.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-15/GOAL_15_TARGETS/GOAL_15_TARGETS_PNG/GOAL_15_TARGET_15.1.png",
+      "color":"#56C02B"
+    },
+    {  
+      "title":"End deforestation and restore degraded forests.",
+      "number":"15.2",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-15/GOAL_15_TARGETS/GOAL_15_TARGETS_SVG/GOAL_15_TARGET_15.2.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-15/GOAL_15_TARGETS/GOAL_15_TARGETS_PNG/GOAL_15_TARGET_15.2.png",
+      "color":"#56C02B"
+    },
+    {  
+      "title":"End desertification and restore degraded land.",
+      "number":"15.3",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-15/GOAL_15_TARGETS/GOAL_15_TARGETS_SVG/GOAL_15_TARGET_15.3.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-15/GOAL_15_TARGETS/GOAL_15_TARGETS_PNG/GOAL_15_TARGET_15.3.png",
+      "color":"#56C02B"
+    },
+    {  
+      "title":"Ensure conservation of mountain ecosystems.",
+      "number":"15.4",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-15/GOAL_15_TARGETS/GOAL_15_TARGETS_SVG/GOAL_15_TARGET_15.4.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-15/GOAL_15_TARGETS/GOAL_15_TARGETS_PNG/GOAL_15_TARGET_15.4.png",
+      "color":"#56C02B"
+    },
+    {  
+      "title":"Protect biodiversity and natural habitats.",
+      "number":"15.5",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-15/GOAL_15_TARGETS/GOAL_15_TARGETS_SVG/GOAL_15_TARGET_15.5.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-15/GOAL_15_TARGETS/GOAL_15_TARGETS_PNG/GOAL_15_TARGET_15.5.png",
+      "color":"#56C02B"
+    },
+    {  
+      "title":"Promote access to genetic resources and fair sharing of the benefits",
+      "number":"15.6",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-15/GOAL_15_TARGETS/GOAL_15_TARGETS_SVG/GOAL_15_TARGET_15.6.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-15/GOAL_15_TARGETS/GOAL_15_TARGETS_PNG/GOAL_15_TARGET_15.6.png",
+      "color":"#56C02B"
+    },
+    {  
+      "title":"Eliminate poaching and trafficking of protected species.",
+      "number":"15.7",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-15/GOAL_15_TARGETS/GOAL_15_TARGETS_SVG/GOAL_15_TARGET_15.7.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-15/GOAL_15_TARGETS/GOAL_15_TARGETS_PNG/GOAL_15_TARGET_15.7.png",
+      "color":"#56C02B"
+    },
+    {  
+      "title":"Prevent invasive alien species on land and in water ecosystems.",
+      "number":"15.8",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-15/GOAL_15_TARGETS/GOAL_15_TARGETS_SVG/GOAL_15_TARGET_15.8.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-15/GOAL_15_TARGETS/GOAL_15_TARGETS_PNG/GOAL_15_TARGET_15.8.png",
+      "color":"#56C02B"
+    },
+    {  
+      "title":"Integrate ecosystem and biodiversity in governmental planning.",
+      "number":"15.9",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-15/GOAL_15_TARGETS/GOAL_15_TARGETS_SVG/GOAL_15_TARGET_15.9.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-15/GOAL_15_TARGETS/GOAL_15_TARGETS_PNG/GOAL_15_TARGET_15.9.png",
+      "color":"#56C02B"
+    },
+    {  
+      "title":"Increase financial resources to conserve and sustainably use ecosystems and biodiversity.",
+      "number":"15.A",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-15/GOAL_15_TARGETS/GOAL_15_TARGETS_SVG/GOAL_15_TARGET_15.A.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-15/GOAL_15_TARGETS/GOAL_15_TARGETS_PNG/GOAL_15_TARGET_15.A.png",
+      "color":"#56C02B"
+    },
+    {  
+      "title":"Finance and incentivize sustainable forest management.",
+      "number":"15.B",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-15/GOAL_15_TARGETS/GOAL_15_TARGETS_SVG/GOAL_15_TARGET_15.B.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-15/GOAL_15_TARGETS/GOAL_15_TARGETS_PNG/GOAL_15_TARGET_15.B.png",
+      "color":"#56C02B"
+    },
+    {  
+      "title":"Combat global poaching and trafficking.",
+      "number":"15.C",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-15/GOAL_15_TARGETS/GOAL_15_TARGETS_SVG/GOAL_15_TARGET_15.C.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-15/GOAL_15_TARGETS/GOAL_15_TARGETS_PNG/GOAL_15_TARGET_15.C.png",
+      "color":"#56C02B"
+    },
+    {  
+      "title":"Peace, Justice, And Strong Institutions",
+      "number":"16",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-16/GOAL_16_PRIMARY_ICON/GOAL_16_SVG/TheGlobalGoals_Icons_Color_Goal_16.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-16/GOAL_16_PRIMARY_ICON/GOAL_16_PNG/TheGlobalGoals_Icons_Color_Goal_16.png",
+      "color":"#00689D"
+    },
+    {  
+      "title":"Reduce violence everywhere",
+      "number":"16.1",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-16/GOAL_16_TARGETS/GOAL_16_TARGETS_SVG/GOAL_16_TARGET_16.1.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-16/GOAL_16_TARGETS/GOAL_16_TARGETS_PNG/GOAL_16_TARGET_16.1.png",
+      "color":"#00689D"
+    },
+    {  
+      "title":"Protect children from abuse, exploitation, trafficking and violence.",
+      "number":"16.2",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-16/GOAL_16_TARGETS/GOAL_16_TARGETS_SVG/GOAL_16_TARGET_16.2.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-16/GOAL_16_TARGETS/GOAL_16_TARGETS_PNG/GOAL_16_TARGET_16.2.png",
+      "color":"#00689D"
+    },
+    {  
+      "title":"Promote the rule of law and ensure equal access to justice.",
+      "number":"16.3",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-16/GOAL_16_TARGETS/GOAL_16_TARGETS_SVG/GOAL_16_TARGET_16.3.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-16/GOAL_16_TARGETS/GOAL_16_TARGETS_PNG/GOAL_16_TARGET_16.3.png",
+      "color":"#00689D"
+    },
+    {  
+      "title":"Combat organized crime and illicit financial and arms flows.",
+      "number":"16.4",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-16/GOAL_16_TARGETS/GOAL_16_TARGETS_SVG/GOAL_16_TARGET_16.4.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-16/GOAL_16_TARGETS/GOAL_16_TARGETS_PNG/GOAL_16_TARGET_16.4.png",
+      "color":"#00689D"
+    },
+    {  
+      "title":"Substantially reduce corruption and bribery.",
+      "number":"16.5",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-16/GOAL_16_TARGETS/GOAL_16_TARGETS_SVG/GOAL_16_TARGET_16.5.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-16/GOAL_16_TARGETS/GOAL_16_TARGETS_PNG/GOAL_16_TARGET_16.5.png",
+      "color":"#00689D"
+    },
+    {  
+      "title":"Develop effective, accountable and transparent institutions.",
+      "number":"16.6",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-16/GOAL_16_TARGETS/GOAL_16_TARGETS_SVG/GOAL_16_TARGET_16.6.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-16/GOAL_16_TARGETS/GOAL_16_TARGETS_PNG/GOAL_16_TARGET_16.6.png",
+      "color":"#00689D"
+    },
+    {  
+      "title":"Ensure responsive, inclusive and representative decision-making.",
+      "number":"16.7",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-16/GOAL_16_TARGETS/GOAL_16_TARGETS_SVG/GOAL_16_TARGET_16.7.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-16/GOAL_16_TARGETS/GOAL_16_TARGETS_PNG/GOAL_16_TARGET_16.7.png",
+      "color":"#00689D"
+    },
+    {  
+      "title":"Strenghten the participation in global governance.",
+      "number":"16.8",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-16/GOAL_16_TARGETS/GOAL_16_TARGETS_SVG/GOAL_16_TARGET_16.8.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-16/GOAL_16_TARGETS/GOAL_16_TARGETS_PNG/GOAL_16_TARGET_16.8.png",
+      "color":"#00689D"
+    },
+    {  
+      "title":"16.9",
+      "number":"16.9",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-16/GOAL_16_TARGETS/GOAL_16_TARGETS_SVG/GOAL_16_TARGET_16.9.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-16/GOAL_16_TARGETS/GOAL_16_TARGETS_PNG/GOAL_16_TARGET_16.9.png",
+      "color":"#00689D"
+    },
+    {  
+      "title":"Ensure public access to information and protect fundamental freedoms.",
+      "number":"16.10",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-16/GOAL_16_TARGETS/GOAL_16_TARGETS_SVG/GOAL_16_TARGET_16.10.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-16/GOAL_16_TARGETS/GOAL_16_TARGETS_PNG/GOAL_16_TARGET_16.10.png",
+      "color":"#00689D"
+    },
+    {  
+      "title":"Strengthen national institutions to prevent violence and combat terrorism and crime.",
+      "number":"16.A",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-16/GOAL_16_TARGETS/GOAL_16_TARGETS_SVG/GOAL_16_TARGET_16.A.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-16/GOAL_16_TARGETS/GOAL_16_TARGETS_PNG/GOAL_16_TARGET_16.A.png",
+      "color":"#00689D"
+    },
+    {  
+      "title":"Promote and enforce non-discriminatory laws and policies.",
+      "number":"16.B",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-16/GOAL_16_TARGETS/GOAL_16_TARGETS_SVG/GOAL_16_TARGET_16.B.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-16/GOAL_16_TARGETS/GOAL_16_TARGETS_PNG/GOAL_16_TARGET_16.B.png",
+      "color":"#00689D"
+    },
+    {  
+      "title":"Partnerships for the goals",
+      "number":"17",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_PRIMARY_ICON/GOAL_17_SVG/TheGlobalGoals_Icons_Color_Goal_17.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_PRIMARY_ICON/GOAL_17_PNG/TheGlobalGoals_Icons_Color_Goal_17.png",
+      "color":""
+    },
+    {  
+      "title":"Mobilize resources to improve domestic revenue collection.",
+      "number":"17.1",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.1.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_PNG/GOAL_17_TARGET_17.1.png",
+      "color":""
+    },
+    {  
+      "title":"Implement all development assistance commitments.",
+      "number":"17.2",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.2.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_PNG/GOAL_17_TARGET_17.2.png",
+      "color":""
+    },
+    {  
+      "title":"Mobilize financial resources for developing countries.",
+      "number":"17.3",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.3.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_PNG/GOAL_17_TARGET_17.3.png",
+      "color":""
+    },
+    {  
+      "title":"Assist developing countries in attaining debt sustainability.",
+      "number":"17.4",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.4.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_PNG/GOAL_17_TARGET_17.4.png",
+      "color":""
+    },
+    {  
+      "title":"Invest in least developed countries.",
+      "number":"17.5",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.5.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_PNG/GOAL_17_TARGET_17.5.png",
+      "color":""
+    },
+    {  
+      "title":"Knowledge sharing and cooperation for access to science, technology and innovation.",
+      "number":"17.6",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.6.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_PNG/GOAL_17_TARGET_17.6.png",
+      "color":""
+    },
+    {  
+      "title":"Promote sustainable technologies to developing countries.",
+      "number":"17.7",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.7.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_PNG/GOAL_17_TARGET_17.7.png",
+      "color":""
+    },
+    {  
+      "title":"Strengthen the science, technology and innovation capacity for least developed countries.",
+      "number":"17.8",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.8.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_PNG/GOAL_17_TARGET_17.8.png",
+      "color":""
+    },
+    {  
+      "title":"Enhance SDG capacity in developing countries.",
+      "number":"17.9",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.9.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_PNG/GOAL_17_TARGET_17.9.png",
+      "color":""
+    },
+    {  
+      "title":"Promote a universal trading system under the WTO.",
+      "number":"17.10",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.10.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_PNG/GOAL_17_TARGET_17.10.png",
+      "color":""
+    },
+    {  
+      "title":"Increase the exports of developing countries.",
+      "number":"17.11",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.11.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_PNG/GOAL_17_TARGET_17.11.png",
+      "color":""
+    },
+    {  
+      "title":"Remove trade barriers for least developed countries.",
+      "number":"17.12",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.12.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_PNG/GOAL_17_TARGET_17.12.png",
+      "color":""
+    },
+    {  
+      "title":"Enhance global macroeconomic stability.",
+      "number":"17.13",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.13.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_PNG/GOAL_17_TARGET_17.13.png",
+      "color":""
+    },
+    {  
+      "title":"Enhance policy coherence for sustainable development.",
+      "number":"17.14",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.14.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_PNG/GOAL_17_TARGET_17.14.png",
+      "color":""
+    },
+    {  
+      "title":"Respect national leadership to implement policies for the sustainable development goals.",
+      "number":"17.15",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.15.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_PNG/GOAL_17_TARGET_17.15.png",
+      "color":""
+    },
+    {  
+      "title":"Enhance the global partnership for sustainable development",
+      "number":"17.16",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.16.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_PNG/GOAL_17_TARGET_17.16.png",
+      "color":""
+    },
+    {  
+      "title":"Encourage effective partnerships.",
+      "number":"17.17",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.17.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_PNG/GOAL_17_TARGET_17.17.png",
+      "color":""
+    },
+    {  
+      "title":"Enhance availability of reliable data.",
+      "number":"17.18",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.18.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_PNG/GOAL_17_TARGET_17.18.png",
+      "color":""
+    },
+    {  
+      "title":"Further develop measurements of progress.",
+      "number":"17.19",
+      "svg":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_SVG/GOAL_17_TARGET_17.19.svg",
+      "png":"assets/img/the-global-goals-goals-and-targets/goal-17/GOAL_17_TARGETS/GOAL_17_TARGETS_PNG/GOAL_17_TARGET_17.19.png",
+      "color":""
     }
   ]
 }
