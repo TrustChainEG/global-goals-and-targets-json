@@ -3,6 +3,8 @@
 JSON file including all Global Goals &amp; Targets with paths to images and color codes.
 
 
+## Format
+
 ```
 {  
   "title":"End poverty in all its forms everywhere",
@@ -32,7 +34,7 @@ Read more regarding the Goals and the campaign: [globalgoals.org](https://www.gl
 
 ![enter image description here](https://raw.githubusercontent.com/TrustchainEG/global-goals-and-targets-json/master/assets/img/logo-horizontal.png)
 
-# License
+## License
 
 ![enter image description here](https://i.creativecommons.org/l/by-sa/3.0/88x31.png)
 
