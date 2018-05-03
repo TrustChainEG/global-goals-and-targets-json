@@ -2,6 +2,30 @@
 
 JSON file including all Global Goals &amp; Targets with paths to images and color codes.
 
+
+```
+{  
+  "title":"End poverty in all its forms everywhere",
+  "short":"No Poverty",
+  "number":"1",
+  "svg":"assets/img/the-global-goals-goals-and-targets/goal-1/GOAL_1_PRIMARY_ICON/GOAL_1_SVG/TheGlobalGoals_Icons_Color_Goal_1.svg",
+  "png":"assets/img/the-global-goals-goals-and-targets/goal-1/GOAL_1_PRIMARY_ICON/GOAL_1_PNG/TheGlobalGoals_Icons_Color_Goal_1.png",
+  "color":"#E5243B"
+},
+{  
+  "title":"Eradicate extreme poverty",
+  "short":"",
+  "number":"1.1",
+  "svg":"assets/img/the-global-goals-goals-and-targets/goal-1/GOAL_1_TARGETS/GOAL_1_TARGETS_SVG/GOAL_1_TARGET_1.1.svg",
+  "png":"assets/img/the-global-goals-goals-and-targets/goal-1/GOAL_1_TARGETS/GOAL_1_TARGETS_PNG/GOAL_1_TARGET_1.1.png",
+  "color":"#E5243B"
+},
+
+...
+
+```
+
+
 ![enter image description here](https://raw.githubusercontent.com/TrustchainEG/global-goals-and-targets-json/master/assets/img/the-global-goals-grid-color.png)
 
 Read more regarding the Goals and the campaign: [globalgoals.org](https://www.globalgoals.org/)
