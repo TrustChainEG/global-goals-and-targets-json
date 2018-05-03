@@ -30,6 +30,17 @@ Read more regarding the Goals and the campaign: [globalgoals.org](https://www.gl
 
 ```
 
+## Translations
+
+* English
+* German
+
+
+## Contributing
+
+Fork and PR: Feel free to add attributes or translations!
+
+
 ## License
 
 ![enter image description here](https://i.creativecommons.org/l/by-sa/3.0/88x31.png)
