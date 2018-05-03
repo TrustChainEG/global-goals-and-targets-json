@@ -2,6 +2,9 @@
 
 JSON file including all Global Goals &amp; Targets with paths to images and color codes.
 
+![Global Goals](https://raw.githubusercontent.com/TrustchainEG/global-goals-and-targets-json/master/assets/img/the-global-goals-grid-color.png)
+
+Read more regarding the Goals and the campaign: [globalgoals.org](https://www.globalgoals.org/)
 
 ## Format
 
@@ -27,13 +30,6 @@ JSON file including all Global Goals &amp; Targets with paths to images and colo
 
 ```
 
-
-![enter image description here](https://raw.githubusercontent.com/TrustchainEG/global-goals-and-targets-json/master/assets/img/the-global-goals-grid-color.png)
-
-Read more regarding the Goals and the campaign: [globalgoals.org](https://www.globalgoals.org/)
-
-![enter image description here](https://raw.githubusercontent.com/TrustchainEG/global-goals-and-targets-json/master/assets/img/logo-horizontal.png)
-
 ## License
 
 ![enter image description here](https://i.creativecommons.org/l/by-sa/3.0/88x31.png)
@@ -50,4 +46,5 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unpor
 
 Read more: https://www.globalgoals.org/asset-licence
 
+![Global Goals](https://raw.githubusercontent.com/TrustchainEG/global-goals-and-targets-json/master/assets/img/logo-horizontal.png)
 
